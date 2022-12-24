@@ -1,0 +1,6 @@
+deepspeech
+pytube
+numpy
+wave
+torch
+transformers
